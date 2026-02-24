@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel USANASE</h1>
 <h3 align="center">A passionate SoftWare Developer From Rwanda!</h3>
 
-- 🔭 I’m currently working on **SchoolsPoast**
+- 🔭 I’m currently working on **SchoolsPost**
 
 - 🌱 I’m currently learning **Python , Next js**
 
