@@ -10,7 +10,7 @@
 ## Connect
 
 - [Instagram](https://instagram.com/emmy_u2)
-- [Medium](https://medium.com/@emmy_u2)
+- [Medium](https://medium.com/emmy_u2)
 - [Discord](https://discord.gg/emmy_u2)
 
 ## Languages and tools
